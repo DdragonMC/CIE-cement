@@ -3,7 +3,7 @@
 
 ### This mod adds the following rolling stock:
 * CIÉ cement "bubble" car - white livery
-* CIÉ cement "bubble" car - white livery
+* CIÉ cement "bubble" car - orange livery
 * CIÉ Irish Cement bogie car
 
 # THIS MOD REQUIRES BOTH CUSTOM CAR LOADER AND CUSTOM CARGO TO WORK
