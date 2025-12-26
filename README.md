@@ -6,6 +6,8 @@
 * CIÉ cement "bubble" car - orange livery
 * CIÉ Irish Cement bogie car
 
+It also adds a new custom cargo: cement. This is produced at the Oil refinery and transported to places like Harbour, City West and City South.
+
 # THIS MOD REQUIRES BOTH CUSTOM CAR LOADER AND CUSTOM CARGO TO WORK
 * Custom Car Loader: https://www.nexusmods.com/derailvalley/mods/324
 * Custom Cargo: https://www.nexusmods.com/derailvalley/mods/907
