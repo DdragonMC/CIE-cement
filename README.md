@@ -12,6 +12,3 @@
 
 This mod may be used with the Gauge mod (https://www.nexusmods.com/derailvalley/mods/563) to achieve maximum accuracy. Select the Custom rail gauge preset and enter "1600" in the "Gauge (millimeters)" field.
 This mod will run perfectly fine without Gauge installed.
-
-Known Issues:
-* there are no LOD models set up for the cars.
